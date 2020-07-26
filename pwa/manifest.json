@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Nam-d's Blog",
+  "short_name": "Nam-d",
+  "description": "UX Designer works at AB180",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",

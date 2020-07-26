@@ -13,10 +13,13 @@ future: true
 
 # SNS settings
 RSS: false
-github_username:    nam-d
-#twitter_username:   
-#facebook_username:  
-#linkedin_username:  firstname-lastname-idxxxx
+github_username:      nam-d
+#twitter_username:    
+facebook_username:   취미로-하는-페이지-110375134092125
+#instagram_username:  nam.d.richard
+#medium_username:     tjrichard91
+#linkedin_username:   tjrichard91
+
 
 
 
@@ -65,9 +68,6 @@ disqus_username: tjrichard-github-io
 
 
 # Analytics settings
-# Baidu Analytics 
-# ba_track_id: [your track id]
-
 # Google Analytics
 ga_track_id: 'UA-172119466-2'            # Format: UA-xxxxxx-xx
 ga_domain: nam-d.github.io
