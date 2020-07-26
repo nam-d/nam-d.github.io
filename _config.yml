@@ -60,7 +60,7 @@ kramdown:
 disqus_username: tjrichard-github-io
 
 # Netease settings
-netease_comment: false
+# netease_comment: false
 
 
 
