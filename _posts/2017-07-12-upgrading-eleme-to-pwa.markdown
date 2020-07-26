@@ -13,10 +13,10 @@ tags:
     - PWA
 ---
 
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include posts/2017-07-12-upgrading-eleme-to-pwa/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
+<!-- Korean Version -->
+<div class="ko post-container">
+    {% capture about_ko %}{% include posts/2017-07-12-upgrading-eleme-to-pwa/ko.md %}{% endcapture %}
+    {{ about_ko | markdownify }}
 </div>
 
 <!-- English Version -->

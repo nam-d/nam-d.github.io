@@ -4,6 +4,6 @@ I am data & detail oriented with 3+ years of experience as a Service/UX designer
 
 ---
 
-##### [🧑🏻‍💻Resume (KR only)](/assets/Resume_Seunghwan_1908.pdf)   |   [🏄🏻‍♂️ Portfolio (KR only)](/assets/Portfolio_Seunghwan_1906.pdf)
+##### [🧑🏻‍💻Resume (KO only)](/assets/Resume_Seunghwan_1908.pdf)   |   [🏄🏻‍♂️ Portfolio (KO only)](/assets/Portfolio_Seunghwan_1906.pdf)
 
 _last update : 19.08_

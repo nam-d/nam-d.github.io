@@ -197,7 +197,7 @@
 <!-- Handle Language Change -->
 <script type="text/javascript">
     // get nodes
-    var $kr = document.querySelector(".kr");
+    var $ko = document.querySelector(".ko");
     var $en = document.querySelector(".en");
     var $select = document.querySelector("select");
 
@@ -218,13 +218,13 @@
             $select.selectedIndex = 1;
             $en.style.display = "block";
             $en.classList.add("active");
-            $kr.style.display = "none";
-            $kr.classList.remove("active");
-            // default to kr-cn
+            $ko.style.display = "none";
+            $ko.classList.remove("active");
+            // default to ko-cn
         } else {
             $select.selectedIndex = 0;
-            $kr.style.display = "block";
-            $kr.classList.add("active");
+            $ko.style.display = "block";
+            $ko.classList.add("active");
             $en.style.display = "none";
             $en.classList.remove("active");
         }
@@ -235,7 +235,7 @@
     // handle select change
     function onLanChange(index) {
         if (index == 0) {
-            lang = "kr"
+            lang = "ko"
         } else {
             lang = "en"
         }
